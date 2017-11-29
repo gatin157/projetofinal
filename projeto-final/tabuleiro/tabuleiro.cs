@@ -1,0 +1,5 @@
+﻿
+namespace tabuleiro {
+    class Tabuleiro {
+    }
+}
